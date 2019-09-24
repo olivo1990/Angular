@@ -9,4 +9,5 @@ export class AppComponent {
   title = 'Hola mundo!';
   nombre:string = "Camilo Javier";
   apellido:string = "Olivo Sierra";
+  
 }
